@@ -73,6 +73,7 @@ public class kmeans1d {
           cluster2.print();
     }
 }
+
 class Cluster1d{
 
     double centroid;
